@@ -1,9 +1,3 @@
-# Data Science Portfolio
-
-Welcome to my Data Science Portfolio! This repository showcases my projects demonstrating **end-to-end data science solutions**, from problem definition and data acquisition to machine learning modeling, evaluation, and actionable insights.
-
----
-
 ## Projects
 
 ### 1. Brandazon E-commerce Analytics Demo
